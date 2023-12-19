@@ -1,10 +1,12 @@
 import "./App.css";
-import { Header,
-   MainContent,
-    Footer,
-     ProductSection,
-      FAQ 
-    } from "./components/Websection";
+
+import {
+  Header,
+  MainContent,
+  ProductSection,
+  Footer,
+  FAQ,
+} from "./components/MainPage";
 
 function App() {
   return (
